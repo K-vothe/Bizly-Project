@@ -119,7 +119,7 @@ Todas las operaciones se realizan mediante peticiones a la API REST del backend.
 ## Backend
 
 * Node.js
-* Express.js
+* React 
 * API REST
 * JavaScript
 * JWT
